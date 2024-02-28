@@ -1,1 +1,1 @@
-# Nueral Network Tutorial
+# Neural Network Tutorial
